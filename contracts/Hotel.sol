@@ -9,7 +9,7 @@ import './HotelBookingInterface.sol';
   /**
    * @title Hotel Booking 
    * @dev A simple Smart Contract for hotel management
-   * @author Dickens Odera dickensodera9@gmail.com
+   * @author William Wang   williamcambell682@gmail.com
   **/
 
 contract Hotel is Ownable, HotelBookingInterface, ReentrancyGuard {
